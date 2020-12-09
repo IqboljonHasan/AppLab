@@ -1,3 +1,3 @@
 # AppLab
 
-### Visit Live [Web Page](https://applab-for.netlify.app)
+### Visit Live [Web Page](https://applab-uz.netlify.app)
